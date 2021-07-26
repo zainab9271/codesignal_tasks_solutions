@@ -1,5 +1,3 @@
-package array_replace
-
 /**
  * Replaces all the occurrences of elemToReplace value in the given array of integers with the substitutionElem.
  * @author Zainab Mahmood
