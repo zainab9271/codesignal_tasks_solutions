@@ -1,3 +1,5 @@
+package array_replace
+
 /**
  * Replaces all the occurrences of elemToReplace value in the given array of integers with the substitutionElem.
  * @author Zainab Mahmood
@@ -11,3 +13,7 @@
 
 
 fun arrayReplace(inputArray: MutableList<Int>, elemToReplace: Int, substitutionElem: Int) = inputArray.map { if (it == elemToReplace) substitutionElem else it }
+
+
+
+
