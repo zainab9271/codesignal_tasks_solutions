@@ -8,3 +8,12 @@ package evenDigitsOnly
  * @see [evenDigitsOnly/evenDigitsOnly_description.md]
  */
 fun evenDigitsOnly(n: Int) = n.toString().filter { it in '1'..'9' step 2 } == ""
+
+
+
+
+
+
+
+
+
